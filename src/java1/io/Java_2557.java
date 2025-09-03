@@ -1,4 +1,4 @@
-package java.io;
+package java1.io;
 
 public class Java_2557 {
 

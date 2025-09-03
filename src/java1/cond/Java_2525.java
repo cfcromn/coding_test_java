@@ -1,4 +1,4 @@
-package java.cond;
+package java1.cond;
 
 import java.util.Scanner;
 

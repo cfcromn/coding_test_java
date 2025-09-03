@@ -1,13 +1,13 @@
-package io;
+package java.io;
 
 import java.util.Scanner;
 
-public class Java_10926 {
+public class Java_18108 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
+        int a = sc.nextInt();
 
-        System.out.println(str + "??!");
+        System.out.println(a - 543);
     }
 }

@@ -1,4 +1,4 @@
-package io;
+package java.io;
 
 public class Java_10172 {
 

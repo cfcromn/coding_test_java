@@ -1,4 +1,4 @@
-package codingtest;
+package baekjoon;
 
 public class Java_10172 {
 

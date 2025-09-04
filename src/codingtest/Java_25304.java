@@ -1,4 +1,4 @@
-package java1.loop;
+package codingtest;
 
 import java.util.Scanner;
 

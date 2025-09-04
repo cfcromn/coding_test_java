@@ -1,4 +1,4 @@
-package java1.io;
+package codingtest;
 
 public class Java_2557 {
 

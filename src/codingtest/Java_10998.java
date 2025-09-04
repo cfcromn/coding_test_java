@@ -1,8 +1,8 @@
-package java1.io;
+package codingtest;
 
 import java.util.Scanner;
 
-public class Java_1001 {
+public class Java_10998 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -10,6 +10,6 @@ public class Java_1001 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println(a - b);
+        System.out.println(a * b);
     }
 }

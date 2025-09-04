@@ -1,4 +1,4 @@
-package java1.cond;
+package codingtest;
 
 import java.util.Scanner;
 
